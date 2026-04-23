@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.pytest_cache/
+*.log
+outputs/logs/*
+outputs/reports/*.html
+outputs/reports/*.json
+index/*.bin
+index/*.npy
+index/*.json
+.DS_Store
+.streamlit/secrets.toml
